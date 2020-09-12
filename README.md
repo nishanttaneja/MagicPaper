@@ -7,8 +7,6 @@ An iOS Application which plays a video when a specific image is shown.
 - Swift Programming Language
 - Storyboard 
 - UIKit - UIViewController 
-- SceneKit - SCNNode | SCNDebugOptions | SCNSphere | SCNMaterial | SCNVector3 | SCNScene | SCNText
-- ARKit - ARSession | ARSCNViewDelegate | ARSCNView | ARConfiguration | ARHitTestResult
-- UITouch
-- simd_float4
-
+- SceneKit - SCNNode | SCNPlane | SCNMaterial | SCNVector3 | SCNScene | SCNSceneRenderer
+- SpriteKit - SKVideoNode | SKScene
+- ARKit - ARSession | ARSCNViewDelegate | ARSCNView | ARConfiguration | ARAnchor | ARReferenceImage
